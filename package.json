@@ -1,0 +1,21 @@
+{
+  "name": "css-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JereMitch/practice-css.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JereMitch/practice-css/issues"
+  },
+  "homepage": "https://github.com/JereMitch/practice-css#readme"
+}
